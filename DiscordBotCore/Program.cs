@@ -12,6 +12,7 @@ namespace StringApplication
             Console.WriteLine(str);
             string substr = str.Substring(23);
             Console.WriteLine(substr);
+            Console.WriteLine("OK");
         }
     }
 }
